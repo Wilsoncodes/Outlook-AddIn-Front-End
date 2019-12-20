@@ -1,0 +1,51 @@
+[{
+		"id": "1576863542",
+		"name": "Pop Tart",
+		"email": "poppytart@byui.edu",
+		"inumber": "123456789",
+		"adminuser": "cct_poppedtart",
+		"permission": [{
+				"Type": "CCT",
+				"Domain": "Online",
+				"Permissions": "Helpdesk"
+			}
+		]
+	},
+	{
+		"id": "1586863542",
+		"name": "Tootsie Roll",
+		"email": "tootsie@byui.edu",
+		"inumber": "123456788",
+		"adminuser": "it_troll",
+		"permission": [{
+			"Type": "IT",
+			"Domain": "BYUI",
+			"Permissions": "Assistant Admin"
+		}]
+	},
+	{
+		"id": "1596863542",
+		"name": "Snicker Doodle",
+		"email": "Doodles@byui.edu",
+		"inumber": "123456787",
+		"adminuser": "cct_Snickers",
+		"permission": [{
+				"Type": "CCT",
+				"Domain": "Online",
+				"Permissions": "Observer"
+			}
+		]
+	},
+	{
+		"id": "1506863542",
+		"name": "Ima Snow Flake",
+		"email": "snowflake@byui.edu",
+		"inumber": "123456786",
+		"adminuser": "ftc_icecold",
+		"permission": [{
+			"Type": "FTC",
+			"Domain": "Campus",
+			"Permissions": "Helpdesk"
+		}]
+	}
+]
